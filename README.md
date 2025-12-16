@@ -9,7 +9,7 @@ Saya adalah seorang **Web App Developer** yang berfokus pada pengembangan aplika
 ---
 
 <p align="center">
-  <img src="https://ik.imagekit.io/2fgn4avnp/929e0a1c16417ca331fd2f2c5480ee18.gif" width="100%" />
+  <img src="https://tenor.com/kPyqb8gsh7a.gif" width="100%" />
 </p>
 
 ## 🚀 About Me

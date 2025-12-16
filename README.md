@@ -1,16 +1,88 @@
-## Hi there 👋
+# 👋 Hi, I'm Farel Alfareza
 
-<!--
-**fareldev-hub/fareldev-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web App Developer** | Backend & Frontend Enthusiast
 
-Here are some ideas to get you started:
+Saya adalah seorang **Web App Developer** yang berfokus pada pengembangan aplikasi web modern, efisien, dan scalable. Terbiasa membangun aplikasi dari sisi **frontend hingga backend**, mengintegrasikan **REST API**, mengelola database, serta melakukan **deployment** ke server/cloud.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🔭 Fokus pada pengembangan **Web Application & API**
+* 🌱 Terus belajar teknologi web modern
+* ⚡ Menyukai kode yang bersih, terstruktur, dan mudah dikembangkan
+* ☁️ Berpengalaman deploy aplikasi ke cloud
+
+---
+
+## 🛠️ Skills
+
+### Programming & Frameworks
+
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge\&logo=javascript\&logoColor=yellow)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Express.js](https://img.shields.io/badge/EXPRESS.JS-black?style=for-the-badge\&logo=express\&logoColor=white)
+![Next.js](https://img.shields.io/badge/NEXT.JS-black?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+
+### Tools & Platform
+
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Railway](https://img.shields.io/badge/RAILWAY-0B0D0E?style=for-the-badge\&logo=railway\&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+🚀 **KSave App**
+Aplikasi web untuk manajemen dan penyimpanan data.
+
+🔗 [https://ksave.up.railway.app](https://ksave.up.railway.app)
+
+---
+
+⚙️ **Endpoint Hub**
+REST API Hub untuk testing dan manajemen endpoint.
+
+🔗 [https://endpoint-hub.up.railway.app](https://endpoint-hub.up.railway.app)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <!-- WhatsApp -->
+  <a href="https://wa.me/6287840615800">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:fareldev.co@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/logic__vibes">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <!-- TikTok -->
+  <a href="https://www.tiktok.com/@logic__vibes">
+    <img src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/vionixdev">
+    <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+
+---
+
+✨ *"Code, Build, Deploy, Repeat"*

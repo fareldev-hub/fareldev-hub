@@ -1,3 +1,5 @@
+![Screenshot my banner]([https://myoctocat.com/assets/images/base-octocat.svg](https://ik.imagekit.io/2fgn4avnp/github-header-banner%20(1).png)
+
 # 👋 Hi, I'm Farel Alfareza
 
 💻 **Web App Developer** | Backend & Frontend Enthusiast

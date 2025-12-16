@@ -34,6 +34,7 @@ Saya adalah seorang **Web App Developer** yang berfokus pada pengembangan aplika
 ![Next.js](https://img.shields.io/badge/NEXT.JS-black?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
 ![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-646CFF?style=for-the-badge\&logo=react\&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-646CFF?style=for-the-badge\&logo=java\&logoColor=white)
 
 ### Tools & Platform
 

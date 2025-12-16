@@ -35,6 +35,11 @@ Saya adalah seorang **Web App Developer** yang berfokus pada pengembangan aplika
 ![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-646CFF?style=for-the-badge\&logo=react\&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-646CFF?style=for-the-badge\&logo=java\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JSX](https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TSX](https://img.shields.io/badge/TSX-3178C6?style=for-the-badge&logo=react&logoColor=white)
+
+
 
 ### Tools & Platform
 

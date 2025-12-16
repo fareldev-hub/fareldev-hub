@@ -7,6 +7,7 @@
 Saya adalah seorang **Web App Developer** yang berfokus pada pengembangan aplikasi web modern, efisien, dan scalable. Terbiasa membangun aplikasi dari sisi **frontend hingga backend**, mengintegrasikan **REST API**, mengelola database, serta melakukan **deployment** ke server/cloud.
 
 ---
+![Screenshot my banner.](https://i.pinimg.com/originals/92/9e/0a/929e0a1c16417ca331fd2f2c5480ee18.gif)
 
 ## 🚀 About Me
 

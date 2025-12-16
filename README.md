@@ -9,7 +9,7 @@ Saya adalah seorang **Web App Developer** yang berfokus pada pengembangan aplika
 ---
 
 <p align="center">
-  <img src="https://tenor.com/kPyqb8gsh7a.gif" width="100%" />
+  <img src="[https://tenor.com/kPyqb8gsh7a.gif](https://animesher.com/orig/1/143/1433/14330/animesher.com_tumblr-gif-anime-scenery-1433047.gif)" width="100%" />
 </p>
 
 ## 🚀 About Me

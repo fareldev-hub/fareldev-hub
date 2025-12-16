@@ -9,7 +9,7 @@ Saya adalah seorang **Web App Developer** yang berfokus pada pengembangan aplika
 ---
 
 <p align="center">
-  <img src="https://ik.imagekit.io/2fgn4avnp/animesher.com_tumblr-gif-anime-scenery-1433047.gif" width="50%" />
+  <img src="https://ik.imagekit.io/2fgn4avnp/animesher.com_tumblr-gif-anime-scenery-1433047.gif" width="80%" />
 </p>
 
 ## 🚀 About Me

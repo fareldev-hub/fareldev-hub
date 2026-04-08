@@ -55,14 +55,7 @@ Saya adalah seorang **Web App Developer** yang berfokus pada pengembangan aplika
 🚀 **tikSave App**
 Aplikasi web untuk mengunduh video tiktok tanpa watermark, cepat dan menyediakan layanan API.
 
-[![Kunjungi Situs](https://img.shields.io/badge/KUNJUNGI%20SITUS-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tiksave.up.railway.app)
----
-
-⚙️ **Endpoint Hub**
-REST API Hub untuk testing dan manajemen endpoint.
-
-[![Kunjungi Situs](https://img.shields.io/badge/KUNJUNGI%20SITUS-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://endpoint-hub.up.railway.app)
-
+[![Kunjungi Situs](https://img.shields.io/badge/KUNJUNGI%20SITUS-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tiksave.my.id)
 ---
 
 ## 🌐 Connect with Me

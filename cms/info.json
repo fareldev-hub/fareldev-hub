@@ -1,0 +1,84 @@
+{
+  "updates": [
+    {
+      "id": 1,
+      "title": "📚 Roadmap Belajar JavaScript Modern 2026",
+      "category": "belajar",
+      "date": "2026-05-01",
+      "excerpt": "Panduan lengkap belajar JavaScript dari dasar hingga mahir. Cocok untuk pemula yang ingin menguasai JS.",
+      "content": "JavaScript adalah bahasa pemrograman yang wajib dikuasai oleh web developer. Berikut roadmap terbaru:\n\n✅ Dasar-dasar JS (variabel, tipe data, function, loop)\n✅ Array & Object manipulation\n✅ Asynchronous (Promise, Async/Await)\n✅ DOM Manipulation\n✅ ES6+ features (destructuring, spread, modules)\n✅ Framework: React.js / Vue.js / Next.js\n\nSumber belajar gratis: MDN Web Docs, JavaScript.info, dan YouTube channel ThePort."
+    },
+    {
+      "id": 2,
+      "title": "🔥 5 Framework CSS Terpopuler 2026",
+      "category": "tips",
+      "date": "2026-05-02",
+      "excerpt": "Rekomendasi framework CSS untuk mempercepat development website modern.",
+      "content": "Framework CSS membantu styling website lebih cepat. Berikut 5 framework terpopuler:\n\n1. Tailwind CSS - Utility-first, sangat fleksibel\n2. Bootstrap - Paling成熟, banyak komponen\n3. Bulma - Modern, pure CSS\n4. Materialize - Material Design dari Google\n5. Chakra UI - Untuk React developer\n\nTips: Pilih sesuai kebutuhan projectmu. Untuk pemula, Bootstrap lebih mudah, untuk yang suka kustomisasi pilih Tailwind."
+    },
+    {
+      "id": 3,
+      "title": "💡 Cara Efektif Belajar Coding untuk Pemula",
+      "category": "belajar",
+      "date": "2026-04-30",
+      "excerpt": "Metode belajar coding yang terbukti efektif berdasarkan pengalaman member ThePort.",
+      "content": "Banyak pemula merasa kesulitan saat mulai belajar coding. Berikut tips dari para senior:\n\n🎯 Pilih 1 bahasa pemrograman fokus (Python atau JavaScript)\n🎯 Jangan hanya nonton tutorial, praktikkan langsung\n🎯 Kerjakan project sederhana (to-do app, kalkulator, portfolio)\n🎯 Bergabung di komunitas untuk diskusi\n🎯 Konsisten 1-2 jam setiap hari\n🎯 Jangan takut error, itu bagian dari proses belajar\n\nMulai dari yang kecil dulu, yang penting progress setiap hari!"
+    },
+    {
+      "id": 4,
+      "title": "🚀 7 Bahasa Pemrograman Paling Dicari Perusahaan 2026",
+      "category": "informasi",
+      "date": "2026-05-03",
+      "excerpt": "Data dari berbagai job portal tentang bahasa pemrograman dengan permintaan tertinggi tahun ini.",
+      "content": "Berdasarkan data dari LinkedIn, Indeed, dan JobStreet, berikut bahasa pemrograman paling dicari:\n\n1. JavaScript/TypeScript (React, Node.js)\n2. Python (Data Science, Backend, AI)\n3. Java (Enterprise, Android)\n4. Go (Microservices, DevOps)\n5. Kotlin (Android)\n6. Rust (System Programming)\n7. SQL (Database)\n\nKuasai minimal 2 bahasa untuk meningkatkan peluang karirmu!"
+    },
+    {
+      "id": 5,
+      "title": "🎓 Rekomendasi Channel YouTube untuk Belajar Coding Gratis",
+      "category": "tips",
+      "date": "2026-04-29",
+      "excerpt": "Kumpulan channel YouTube terbaik (Indonesia & Inggris) untuk belajar programming secara gratis.",
+      "content": "Channel YouTube Indonesia 🇮🇩:\n- Web Programming UNPAS (Sandhika Galih)\n- Programmer Zaman Now (Eko Kurniawan)\n- Dea Afrizal\n- Pakpuk Channel\n\nChannel YouTube Inggris 🇬🇧:\n- freeCodeCamp\n- Traversy Media\n- The Net Ninja\n- Fireship\n- Programming with Mosh\n\nSemua konten gratis dan berkualitas! Pilih playlist yang sesuai dengan levelmu."
+    },
+    {
+      "id": 6,
+      "title": "🏗️ Arsitektur Backend Modern: Microservices vs Monolith",
+      "category": "informasi",
+      "date": "2026-04-28",
+      "excerpt": "Perbandingan antara arsitektur monolitik dan microservices untuk pengembangan backend.",
+      "content": "Microservices dan Monolith sama-sama punya kelebihan dan kekurangan:\n\n🟢 MONOLITH:\n+ Sederhana untuk memulai\n+ Deployment mudah\n+ Performa lebih cepat (tidak ada network overhead)\n- Sulit scaling per fitur\n- Codebase bisa sangat besar\n\n🟢 MICROSERVICES:\n+ Scalable per service\n+ Tim dapat bekerja independen\n+ Lebih resilient\n- Kompleksitas tinggi\n- Memerlukan DevOps yang baik\n\nUntuk startup kecil & MVP, Monolith lebih direkomendasikan. Untuk enterprise skala besar, Microservices lebih cocok."
+    },
+    {
+      "id": 7,
+      "title": "🐍 Python vs JavaScript: Mana yang Harus Dipelajari Pemula?",
+      "category": "belajar",
+      "date": "2026-04-27",
+      "excerpt": "Analisis perbandingan Python dan JavaScript untuk pemula yang bingung memilih bahasa pertama.",
+      "content": "Keduanya adalah pilihan bagus untuk pemula! Berikut panduannya:\n\nPILIH PYTHON JIKA:\n- Tertarik dengan Data Science / AI / Machine Learning\n- Ingin belajar konsep programming dengan sintaks sederhana\n- Target karir di backend atau automation\n\nPILIH JAVASCRIPT JIKA:\n- Ingin menjadi web developer (frontend/backend)\n- Ingin membuat aplikasi mobile (React Native)\n- Ingin hasil cepat (bisa langsung lihat di browser)\n\nRekomendasi: Pelajari keduanya! Mulai dengan salah satu, setelah memahami konsep dasar, bahasa kedua akan lebih mudah dikuasai."
+    },
+    {
+      "id": 8,
+      "title": "📱 Cara Membuat Aplikasi Mobile dengan React Native",
+      "category": "tutorial",
+      "date": "2026-05-04",
+      "excerpt": "Tutorial singkat membuat aplikasi mobile cross-platform menggunakan React Native.",
+      "content": "React Native memungkinkan membuat aplikasi Android & iOS dengan JavaScript.\n\nLangkah awal:\n1️⃣ Install Node.js dan npm\n2️⃣ Install Expo CLI: npm install -g expo-cli\n3️⃣ Buat project baru: expo init my-app\n4️⃣ Jalankan: cd my-app && expo start\n5️⃣ Scan QR code dengan Expo Go di HP\n\nKomponen dasar: View, Text, Button, Image, ScrollView.\n\nState management: useState, useEffect (sama seperti React Web).\n\nSumber belajar: Dokumentasi resmi React Native dan channel YouTube ThePort."
+    },
+    {
+      "id": 9,
+      "title": "🛠️ Alat Wajib Developer Pemula",
+      "category": "tips",
+      "date": "2026-04-26",
+      "excerpt": "Tools dan software yang harus diinstall oleh developer pemula untuk memulai karir.",
+      "content": "Berikut alat yang wajib dimiliki:\n\n💻 Code Editor: VS Code (gratis & powerful)\n📦 Version Control: Git + GitHub\n🌐 Browser: Chrome/Firefox dengan DevTools\n📝 API Testing: Postman atau Insomnia\n🐳 Container (nanti): Docker\n🗄️ Database GUI: DBeaver atau TablePlus\n\nInstalasi VS Code extensions:\n- Prettier (format kode)\n- ESLint (cek error)\n- Live Server (real-time preview)\n- Thunder Client (API testing di VS Code)"
+    },
+    {
+      "id": 10,
+      "title": "💼 Portofolio yang Disukai HRD & Tech Lead",
+      "category": "informasi",
+      "date": "2026-04-25",
+      "excerpt": "Tips membuat portofolio programming yang menarik perhatian recruiter dan tech lead.",
+      "content": "Portofolio adalah kunci mendapatkan kerja di bidang IT. Tipsnya:\n\n✅ Buat 3-5 project lengkap (bukan hanya tutorial)\n✅ Hosting di Vercel / Netlify (gratis)\n✅ Sertakan link GitHub dengan README yang jelas\n✅ Tunjukkan masalah yang dipecahkan, bukan hanya fitur\n✅ Untuk frontend: buat responsive & animasi halus\n✅ Untuk backend: dokumentasi API & database schema\n✅ Sertakan testimonial (jika ada)\n\nProject rekomendasi untuk pemula:\n- Weather App (API integration)\n- To-Do List with authentication\n- Blog sederhana (CRUD)\n- Portfolio website interaktif"
+    }
+  ]
+}

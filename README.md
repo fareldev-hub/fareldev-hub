@@ -104,7 +104,7 @@ Kumpulan proyek dan karya yang pernah dibangun, ditampilkan dalam satu halaman.
 <a href="mailto:fareldev.co@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://instagram.com/logic__vibes"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.tiktok.com/@logic__vibes"><img src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-<a href="https://t.me/vionixdev"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://t.me/fareldev"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---

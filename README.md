@@ -2,7 +2,6 @@
   <img src="https://ik.imagekit.io/2fgn4avnp/github-header-banner%20(1).png" width="100%" alt="Header Banner" />
 </p>
 
-<h1 align="center">Farel Alfareza</h1>
 <h3 align="center">Web App Developer — Backend & Frontend Enthusiast</h3>
 
 <p align="center">

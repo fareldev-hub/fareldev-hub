@@ -1,111 +1,88 @@
 <p align="center">
-  <img src="https://ik.imagekit.io/2fgn4avnp/github-header-banner%20(1).png" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=FarelDeveloper" />
+</p>
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;" alt="Typing SVG" />
+</a>
+</div>
+
+<div align="center">
+  <p style="text-align: justify; max-width: 800px; margin: 0 auto;">
+    Hello, I am <strong>Farel Alfareza</strong>, a <strong>Web & App Developer</strong> based in Southeast Sulawesi, Indonesia.
+    <br /><br />
+    I have a deep passion for software development, particularly in building web and mobile applications that are not only functional but also responsive, user-friendly, and capable of delivering real-world solutions for users.
+    <br /><br />
+    My journey in programming began with an interest in how technology can simplify people's daily lives. Since then, I have continuously learned and honed my skills across various areas—ranging from frontend and backend development to deployment and infrastructure.
+    <br /><br />
+    I believe that great technology is adaptable to user needs, performs optimally, and is easy to maintain. Therefore, in every project I undertake, I prioritize clean code, industry best practices, and a seamless user experience.
+  </p>
+</div>
+
+---
+
+<div align="center">
+💻 Languages & Frameworks
+<p><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,python,java,react,nextjs,express,vite&perline=6&theme=dark" />
 </p>
 
-<h3 align="center">Web App Developer — Backend & Frontend Enthusiast</h3>
-
+### 🛠️ Development Tools
 <p align="center">
-Saya adalah seorang <b>Web App Developer</b> yang berfokus pada pengembangan aplikasi web modern, efisien, dan scalable. Terbiasa membangun aplikasi dari sisi <b>frontend hingga backend</b>, mengintegrasikan <b>REST API</b>, mengelola database, serta melakukan <b>deployment</b> ke server/cloud.
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,nodejs,vscode&perline=6&theme=dark" />
 </p>
 
----
-
-## GitHub Statistics
-
+### 🌐 Platforms & OS
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fareldev-hub&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
+  <img src="https://skillicons.dev/icons?i=ubuntu,kali,debian,cloudflare,vercel&perline=6&theme=dark" />
 </p>
-
-
-</p>
+</div>
 
 ---
 
+<p align="center">📊 GitHub Analytics</p>
+<div align="center">
+<p>
+ 
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fareldev-hub&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF" width="70%" />
+</p>
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fareldev-hub&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" width="100%" />
+</p>
+</div>
+
+<p align="center">🏆 GitHub Trophies</p>
 <p align="center">
-  <img src="https://ik.imagekit.io/2fgn4avnp/animesher.com_tumblr-gif-anime-scenery-1433047.gif" width="80%" />
+  <img src="https://follow.lazybittu.workers.dev/user/fareldev-hub.svg" alt="Follow Tracker" />
 </p>
 
----
 
-## About Me
+<p align="center">Connect With Me</p>
+<div align="center">
+<p>
+  <a href="mailto:fareldev.co@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/logic__vibes">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@logic__vibes">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://t.me/fareldev">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+</div>
 
-- Fokus pada pengembangan **Web Application & API**
-- Terus belajar teknologi web modern
-- Menyukai kode yang bersih, terstruktur, dan mudah dikembangkan
-- Berpengalaman melakukan deployment aplikasi ke cloud
+## ☕ Support Me
 
----
+[![Donate](https://img.shields.io/badge/Donate-Trakteer-ff69b4?style=for-the-badge&logo=ko-fi&logoColor=white)](https://trakteer.id/farel_alfarez/gift)
+[![Donate](https://img.shields.io/badge/Donate-Saweria-orange?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/fareldev)
 
-## Skills
-
-**Programming Language & Framework**
-
-<p align="left">
-<img src="https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=javascript&logoColor=yellow" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thank+You&fontSize=28&fontAlignY=65&animation=fadeIn&fontColor=fff" width="100%" />
 <br/>
-<img src="https://img.shields.io/badge/EXPRESS.JS-black?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/NEXT.JS-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/REACT-149ECA?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/TSX-3178C6?style=for-the-badge&logo=react&logoColor=white" />
-</p>
-
-**Tools & Platform**
-
-<p align="left">
-<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/RAILWAY-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
-</p>
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td>
-
-**tikdash**
-Aplikasi web untuk mengunduh video TikTok tanpa watermark, cepat dan menyediakan layanan API.
-
-[![Kunjungi Situs](https://img.shields.io/badge/KUNJUNGI%20SITUS-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tikdash.my.id)
-
-</td>
-</tr>
-<tr>
-<td>
-
-**Portofolio**
-Kumpulan proyek dan karya yang pernah dibangun, ditampilkan dalam satu halaman.
-
-[![Lihat Portofolio](https://img.shields.io/badge/LIHAT%20PORTOFOLIO-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://farelsite.pages.dev)
-
-</td>
-</tr>
-</table>
-
----
-
-## Connect with Me
-
-<p align="left">
-<a href="https://wa.me/6287840615800"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="mailto:fareldev.co@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/logic__vibes"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.tiktok.com/@logic__vibes"><img src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-<a href="https://t.me/fareldev"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center"><i>"Code, Build, Deploy, Repeat"</i></p>

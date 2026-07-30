@@ -10,7 +10,7 @@
 
 <div align="center">
   <p style="text-align: justify; max-width: 800px; margin: 0 auto;">
-    Hello, I am <strong>Farel Alfareza</strong>, a <strong>Web & App Developer</strong> based in Southeast Sulawesi, Indonesia.
+    Hello, I am <strong>Farel Alfareza</strong>, a <strong>Web & App Developer</strong> from Sulawesi tenggara, Indonesia.
     <br /><br />
     I have a deep passion for software development, particularly in building web and mobile applications that are not only functional but also responsive, user-friendly, and capable of delivering real-world solutions for users.
     <br /><br />

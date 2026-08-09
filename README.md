@@ -23,17 +23,17 @@
 ---
 
 <div align="center">
-💻 Languages & Frameworks
+Languages & Frameworks
 <p><br>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,python,java,react,nextjs,express,vite&perline=6&theme=dark" />
 </p>
 
-### 🛠️ Development Tools
+### Development Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,docker,nodejs,vscode&perline=6&theme=dark" />
 </p>
 
-### 🌐 Platforms & OS
+### Platforms & OS
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ubuntu,kali,debian,cloudflare,vercel&perline=6&theme=dark" />
 </p>
@@ -41,7 +41,7 @@
 
 ---
 
-<p align="center">📊 GitHub Analytics</p>
+<p align="center">GitHub Analytics</p>
 <div align="center">
 <p>
  

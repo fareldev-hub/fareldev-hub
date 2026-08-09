@@ -48,7 +48,6 @@ Languages & Frameworks
 </p>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fareldev-hub&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF" width="70%" />
-    <img src="https://follow.lazybittu.workers.dev/user/fareldev-hub.svg" alt="Follow Tracker" />
 </p>
 
 

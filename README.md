@@ -23,6 +23,14 @@
 ---
 
 <div align="center">
+  <a href="https://github.com/theport-studio">
+    <img src="https://img.shields.io/badge/Join%20Organization-181717?style=for-the-badge&logo=github&logoColor=white" alt="Join Organization" />
+  </a>
+</div>
+
+---
+
+<div align="center">
 Languages & Frameworks
 <p><br>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,python,java,react,nextjs,express,vite&perline=6&theme=dark" />
@@ -48,11 +56,6 @@ Languages & Frameworks
 </p>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fareldev-hub&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF" width="70%" />
-</p>
-
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fareldev-hub&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" width="100%" />
 </p>
 </div>
 
